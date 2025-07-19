@@ -27,7 +27,8 @@ Copy
 Edit
 
 ## 📸 Screenshots
-(Add screenshots of CLI & Flask UI or ngrok link here)
+![WhatsApp Image 2025-07-11 at 20 57 05_abdceda7](https://github.com/user-attachments/assets/a86eb3e7-b7be-4c93-a8b5-39675126f75b)
+
 
 ## 🛠️ Setup
 ```bash
