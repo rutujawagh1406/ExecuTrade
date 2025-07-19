@@ -1,0 +1,8 @@
+{"order_id": "f1798a7d-936c-4009-83db-0fad198e8ad7", "timestamp": 1752247558132, "symbol": "BTCUSDT", "side": "BUY", "type": "MARKET", "quantity": 0.01, "status": "FILLED", "price": "MARKET"}
+{"order_id": "7a32b14f-007b-467f-a626-3b3a00f8cb0f", "timestamp": 1752247607251, "symbol": "BTCUSDT", "side": "SELL", "type": "LIMIT", "quantity": 0.01, "price": 30000.0, "status": "NEW"}
+{"oco_id": "67f1ffce-2194-4131-bf5a-31b13e1397a6", "timestamp": 1752334401699, "symbol": "BTCUSDT", "side": "SELL", "type": "OCO", "quantity": 0.01, "take_profit_price": 30000.0, "stop_price": 25900.0, "stop_limit_price": 39480.0, "status": "NEW"}
+{"twap_id": "6e76afb7-8ba3-4043-951c-a0d21b1d624f", "slice": 1, "timestamp": 1752334429963, "symbol": "BTCUSDT", "side": "BUY", "type": "TWAP", "quantity": 0.008, "status": "FILLED"}
+{"twap_id": "6e76afb7-8ba3-4043-951c-a0d21b1d624f", "slice": 2, "timestamp": 1752334431965, "symbol": "BTCUSDT", "side": "BUY", "type": "TWAP", "quantity": 0.008, "status": "FILLED"}
+{"twap_id": "6e76afb7-8ba3-4043-951c-a0d21b1d624f", "slice": 3, "timestamp": 1752334433966, "symbol": "BTCUSDT", "side": "BUY", "type": "TWAP", "quantity": 0.008, "status": "FILLED"}
+{"twap_id": "6e76afb7-8ba3-4043-951c-a0d21b1d624f", "slice": 4, "timestamp": 1752334435967, "symbol": "BTCUSDT", "side": "BUY", "type": "TWAP", "quantity": 0.008, "status": "FILLED"}
+{"twap_id": "6e76afb7-8ba3-4043-951c-a0d21b1d624f", "slice": 5, "timestamp": 1752334437968, "symbol": "BTCUSDT", "side": "BUY", "type": "TWAP", "quantity": 0.008, "status": "FILLED"}
